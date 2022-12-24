@@ -1,0 +1,19 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Para visualização: Utilizar a extensão live-server (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VSCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosneto/Calculadora.git"
+  },
+  "author": "Júlio Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliosneto/Calculadora/issues"
+  },
+  "homepage": "https://github.com/juliosneto/Calculadora#readme"
+}
